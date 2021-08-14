@@ -4,7 +4,7 @@ Use the `yarn` command to install this projects dependencies.
 
 Use the `yarn start` command to run the app in the development mode.
 
-# TODO
+## TODO
 
 - Add React Router
 - Add an example 'home' page and 'list' page
