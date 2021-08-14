@@ -1,18 +1,10 @@
-# Getting Started with Create React App
+# Hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Use the `yarn` command to install this projects dependencies.
 
-## Available Scripts
+Use the `yarn start` command to run the app in the development mode.
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Other Available Scripts
 
 ### `yarn test`
 
