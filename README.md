@@ -10,9 +10,6 @@ Please enable 'Prettier - Code formatter' on Visual Studio Code before pushing t
 
 ## TODO
 
-- Add React Router
-- Add an example 'home' page and 'list' page
-- Add some generic components that are used in the 'list' page
 - Add a 'useList' hook that is accessed by the 'list' page
 - Add some database calls that return typed json objects
 - Implement a basic context
