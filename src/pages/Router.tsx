@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 // This page contains most of the routing for the application
 
@@ -6,10 +6,8 @@ import React from 'react';
 
 const Router: React.FC = () => {
   return (
-    <div className="flex justify-center pt-4 m-10 h-32 bg-red-500">
-      Routes! 
-    </div>
+    <div className="flex justify-center pt-4 m-10 h-32 bg-red-500">Routes!</div>
   );
-}
+};
 
 export default Router;
