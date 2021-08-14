@@ -1,9 +1,13 @@
+import LinkButton from "../components/LinkButton";
+import Title from "../components/Title";
+
 const HomePage: React.FC = () => {
   return (
     <div className="flex flex-col justify-start items-center">
-      <h1>Welcome to the home page!</h1>
+      <Title title={"Welcome to the home page!"} />
       <div>
-        View properties here: <button>View</button>
+        View properties here:{" "}
+        <LinkButton title={"View"} to={"/property-list"} />
       </div>
     </div>
   );
