@@ -1,0 +1,32 @@
+[
+  {
+    "title": "river home",
+    "price": 120,
+    "numBedrooms": 2,
+    "hasDriveway": false
+  },
+  {
+    "title": "beach home",
+    "price": 10,
+    "numBedrooms": 1,
+    "hasDriveway": true
+  },
+  {
+    "title": "castle",
+    "price": 400,
+    "numBedrooms": 20,
+    "hasDriveway": true
+  },
+  {
+    "title": "forest hut",
+    "price": 50,
+    "numBedrooms": 3,
+    "hasDriveway": true
+  },
+  {
+    "title": "space station",
+    "price": 1000,
+    "numBedrooms": 5,
+    "hasDriveway": false
+  }
+]
