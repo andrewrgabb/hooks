@@ -1,4 +1,4 @@
-# Hooks
+# React App Structure
 
 Use the `yarn` command to install this projects dependencies.
 
