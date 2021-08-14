@@ -1,11 +1,15 @@
-import React from 'react';
+import React from "react";
+import Routes from "./Router";
 
-const App = () => {
+// App level contexts are likely to be added into this page
+
+const App: React.FC = () => {
   return (
-    <div className="flex justify-center pt-4 m-10 h-32 bg-red-500">
-      React! 
+    <div>
+      App!
+      <Routes />
     </div>
   );
-}
+};
 
 export default App;
